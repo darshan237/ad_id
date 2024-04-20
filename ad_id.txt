@@ -41,7 +41,7 @@
   "isBackFacebookGoogleBoth": true,
   "isBannerGoogleFacebookBoth": true,
   "isComingSoon": false,
-  "isCustom": true,
+  "isCustom": false,
   "isFacebookFailShowGoogle": true,
   "isFacebookGoogleBoth": true,
   "isGoogleFailShowFacebook": true,
