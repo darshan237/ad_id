@@ -20,7 +20,7 @@
   "facebookNativeId4": "IMG_16_9_APP_INSTALL#147713211744465_147718521743934",
   "facebookNativeId5": "IMG_16_9_APP_INSTALL#147713211744465_147718521743934",
   "facebookNativeVisible": true,
-  "googleAppOpenAd": "ca-app-pub-3940256099942544/9257395921",
+  "googleAppOpenAd": "ca-app-pub-6469137947284842/6912636860",
   "googleBannerId1": "ca-app-pub-6469137947284842/1729343089",
   "googleBannerId2": "ca-app-pub-6469137947284842/1729343089",
   "googleBannerId3": "ca-app-pub-6469137947284842/1729343089",
